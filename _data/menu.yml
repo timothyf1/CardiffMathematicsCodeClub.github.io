@@ -34,6 +34,8 @@
           url: /languages/haskell.html
         - text: Java
           url: /languages/java.html
+        - text: Pascal
+          url: /languages/pascal.html
         - text: Python
           url: /languages/python.html
 - text: Get involved
