@@ -1,17 +1,18 @@
 ---
 layout            : post
 title             : "Kivy introduction"
-leader            : Alex
+leader            : Timothy
 comments          : false
-date              : 2016-02-28
-software-pre-reqs : "SMC account"
+date              : TBC
+software-pre-reqs : "Kivy"
 ---
 
-This workshop will introduce the very basics of using [Kivy](http://www.kivy.org/).
+This workshop will be creating a basic app using [Kivy](http://www.kivy.org/).
 
 Basic things covered include:
 
 - Hello world
+- Different types of widgets
 - Layouts
 
-For installation see the kivy website
+For installation instructions of kivy see the [kivy website](https://kivy.org/#download). 
